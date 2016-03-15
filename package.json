@@ -1,6 +1,6 @@
 {
-  "name": "node-string-format",
-  "version": "1.0.0",
+  "name": "node-string-format-light",
+  "version": "1.0.1",
   "description": "Replaces values in a string",
   "main": "index.js",
   "scripts": {
